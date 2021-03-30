@@ -1,2 +1,2 @@
 ### Hi
-im a bit dumb
+im a bit unsmart
