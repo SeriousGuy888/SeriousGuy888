@@ -1,6 +1,6 @@
 # 👋 E
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeriousGuy888&theme=github_dark&show_icons=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=SeriousGuy888&theme=github_dark&show_icons=true" width="45%" align="right" />
 <img src="https://www.github.com/SeriousGuy888.png" height="120" align="left" />
 
 Hi, I am billzo.
