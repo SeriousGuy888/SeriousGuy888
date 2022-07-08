@@ -1,17 +1,8 @@
-# 👋 E
-
 <img src="https://www.github.com/SeriousGuy888.png" height="120" align="right" />
 
-Hi, I am billzo.
+<div align="left">
 
-Just some human who interested in webdev, gamedev, and Minecraft modding and plugin development.\
-Currently slightly incompetent, but working towards not being incompetent.
-
-<br clear="both"/>
-
----
-
-<div align="center">
+A human who is currently slightly incompetent, but working towards not being incompetent.
 
 | | Technologies |
 | --: | :--: |
