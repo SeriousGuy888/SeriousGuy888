@@ -8,6 +8,6 @@ A human who is currently slightly incompetent, but working towards not being inc
 
 <img src="https://github-readme-stats.vercel.app/api?username=SeriousGuy888&theme=github_dark&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousGuy888&hide=Shaderlab,HLSL&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousGuy888&hide=Shaderlab,HLSL&size_weight=0.5&count_weight=0.5&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
