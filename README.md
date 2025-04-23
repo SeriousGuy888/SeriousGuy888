@@ -10,6 +10,6 @@ trying my best :+1:
 <img src="https://github-readme-stats.vercel.app/api?username=SeriousGuy888&theme=github_dark&show_icons=true" />
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousGuy888&hide=Shaderlab,HLSL,C%23&theme=github_dark&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousGuy888&hide=Shaderlab,HLSL,C%23&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
